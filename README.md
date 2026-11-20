@@ -1,16 +1,46 @@
-## Hi there 👋
+# 김찬혁 | AI 개발자 지원
 
-<!--
-**kimchan23451/kimchan23451** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+전주대학교 인공지능학과 · 4학년  
+GitHub: https://github.com/kimchan23451
 
-Here are some ideas to get you started:
+### 한 줄 소개
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**객체 탐지와 음성 인식 기술을 실제 시스템으로 구현하는 AI 개발자**
+
+### 핵심 역량 ① 컴퓨터 비전 및 객체 탐지
+
+YOLO 기반 양계장 닭 탐지 시스템 개발
+
+- 데이터 라벨링 및 모델 파라미터 조정
+- 객체 추적 및 ID 병합 로직 구현
+- 정지 상태 기반 폐사 의심 판별 방식 설계
+
+### 핵심 역량 ② 음성 인식 및 AI 모델 활용
+
+Whisper 기반 드론 음성 명령 인식 기능 개발
+
+- faster-whisper 기반 한국어 음성 인식
+- 음성 입력 및 텍스트 변환 기능 구현
+- 드론 제어 시스템과 연계하기 위한 명령 처리 구조 설계
+
+### 핵심 역량 ③ Python 및 시스템 구축
+
+테니스 회원 관리 웹 플랫폼 개발
+
+- 웹 서버 환경 구축
+- 그누보드6 기반 웹 플랫폼 구성
+- 회원 관리 및 외부 서비스 연결 기능 개발
+
+### 대표 프로젝트
+
+| 프로젝트 | 인원 | 내 역할 | 주요 결과 | 페이지 |
+|---|---|---|---|---|
+| YOLO 닭 폐사체 탐지 | 4명 | 라벨링·객체 추적·판별 로직 | 객체 ID 관리 및 추적 결과 시각화 | 2~3 |
+| 드론 음성 명령 인식 | [확인 필요] | STT 기능 개발 | 한국어 음성 명령 텍스트 변환 | 4~5 |
+| 테니스 웹 플랫폼 | [확인 필요] | 서버 및 플랫폼 구축 | 회원 관리 웹 환경 구축 | 6~7 |
+
+**교육:** 전주대학교 인공지능학과, 캐나다 머신러닝·딥러닝 교육 프로그램, Gazebo 특강
+
+**자격:** 운전면허 보유 · SQLD 학습 중
+
+**이메일:** [이메일 주소]
